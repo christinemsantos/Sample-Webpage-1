@@ -1,0 +1,27 @@
+h1 {
+  text-align: center;
+  color: white;
+  padding-top: 200px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2 {
+  text-align: center;
+  color: white;
+}
+button {
+  background-color: aquamarine;
+  padding: 20px;
+  border-radius: 5px;
+  display: block;
+  margin: 0 auto;
+  font-size: 20px;
+}
+.hero {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("../images/beach-bg.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-width: 95%;
+  height: 600px;
+  margin: 0 auto;
+}
