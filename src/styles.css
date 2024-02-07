@@ -28,3 +28,6 @@ footer {
   height: 600px;
   margin: 0 auto;
 }
+.featured {
+  display: flex;
+}
